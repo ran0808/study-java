@@ -8,3 +8,4 @@ SafeHashMap.java是对hashmap的安全性改造，主要包括：\
 1.扰乱函数的加强
 2.对树化进行限制，在table表长度大于64时进行树化，其余进行扩容\
 SeurityTest.java：是一个测试类，对SafeHashMap的改进进行测试\
+HashMap学习及改进报告：就是我今天所学的书面说明
